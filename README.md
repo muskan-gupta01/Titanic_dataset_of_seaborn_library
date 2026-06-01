@@ -48,3 +48,9 @@ The analysis revealed that passenger class, gender, and fare were the most impor
 ## 📁 Dataset
 
 Titanic dataset from Seaborn.
+
+👩‍💻 Author
+Muskan Gupta
+
+Connect with Me
+LinkedIn: linkedin.com/in/muskan-gupta-551293386
